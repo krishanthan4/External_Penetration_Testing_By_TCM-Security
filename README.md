@@ -9,8 +9,10 @@ this course is not a hands on course .this is a methodology course. ENJOY
 - trying to attack from the outside.
 - in a external ,no need to test web app testing.
 
-![[Pasted image 20230929120524.png]]
-![[Pasted image 20230929120551.png]]
+[Pasted image 20230929120524](https://github.com/krishanthan4/External_Penetration_Testing_By_TCM-Security/assets/122454062/ad904793-4cb1-48ed-bfad-9f1d5e7de0b3)
+
+[Pasted image 20230929120551](https://github.com/krishanthan4/External_Penetration_Testing_By_TCM-Security/assets/122454062/8e881aed-d87e-40ec-873e-8625a911d5c7)
+
 ## Rules of Engagement Doc
 - this is a high level overview of a test scopes and details.
 - this is a must do agreement.
@@ -46,11 +48,13 @@ get the vulnerability scanning report to a Excel sheet by something.
 ## Default Credentials
 ## Insufficient Encryption
 
-![[Pasted image 20230929164838.png]]
+![Pasted image 20230929164838](https://github.com/krishanthan4/External_Penetration_Testing_By_TCM-Security/assets/122454062/3fe70391-968c-44ad-8e8c-48e0b9882b91)
+
 
 
 ## Information Disclosure
-![[Pasted image 20231001233317.png]]  
+  ![Pasted image 20231001233317](https://github.com/krishanthan4/External_Penetration_Testing_By_TCM-Security/assets/122454062/8d0eba1d-337f-4edd-bdff-de5ac945fa45)
+
 ## Username Enumeration
 ## Default Web Pages
 ## Open Mail Repays
